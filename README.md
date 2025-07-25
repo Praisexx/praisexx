@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 I’m an upcoming frontend web developer currently learning modern frameworks and libraries.
 I'm working on a 2D game and other web projects, so stay tuned!
-Feel free to connect or ask me anything via LinkedIn or Discord.
+Feel free to connect or ask me anything via 
+[LinkedIn](https://www.linkedin.com/in/praisechukwudi)
+[Discord](https://discord.com/users/aise_0822)
+
 
 Fun fact: Paying me money makes me happy, which in turn makes your project happy too 😄
 
