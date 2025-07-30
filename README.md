@@ -21,5 +21,4 @@ Feel free to connect or ask me anything via
 [Discord](https://discord.com/users/aise_0822)
 
 
-Fun fact: Paying me money makes me happy, which in turn makes your project happy too 😄
 
