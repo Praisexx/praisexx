@@ -31,6 +31,15 @@
 ![Make](https://img.shields.io/badge/Make.com-2F80ED?logo=make.com&logoColor=fff)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff)
 
+
+
+## 🏆 Highlights
+- Built LLM integrations used by real businesses  
+- Designed automation workflows with n8n and Make.com  
+- Developed multiple SaaS-style full-stack applications  
+
+
+
 ---
 
 ## 📫 Contact  
